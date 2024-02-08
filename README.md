@@ -7,4 +7,4 @@
 
 **git_howdo.md** - инструкции по работе с GIT
 
-**Markdown istruction.md** - инструкции и примеры для языка Markdown
+**Markdown instruction.md** - инструкции и примеры для языка Markdown
