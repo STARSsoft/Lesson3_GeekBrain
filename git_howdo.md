@@ -32,7 +32,7 @@ git log --oneline --graph
 
 ### Перейти к версии файла
 ```sh
-git checkout <branch_name>
+git checkout <123456>
 ```
 
 ### Посмотреть существующие ветки
